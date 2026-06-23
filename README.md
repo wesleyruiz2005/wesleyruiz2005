@@ -72,9 +72,9 @@ Most of my work is in .NET, Python, and JavaScript. I also build automations wit
 ## ◉ Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wesleykyle2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wesleyruiz2005&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%">
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleykyle2005&theme=midnight_purple" width=100%>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wesleyruiz2005&theme=midnight_purple" width=100%>
 
 ![birds](./images/bird.gif)
