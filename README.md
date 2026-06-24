@@ -81,3 +81,45 @@ My work sits at the intersection of **ML**, **intelligent automation**, and **ba
 <p align="center">
   <img src="https://subreddit-memes-eta.vercel.app/api/meme" height="60%">
 </p>
+
+---
+
+## ◷ Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wesleyruiz2005&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=A78BFA&point=8B5CF6&hide_border=true" width="100%">
+
+---
+
+## ⌁ Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/wesleyruiz2005/wesleyruiz2005/blob/output/snake.svg" />
+</p>
+
+---
+
+## ⊞ Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wesleyruiz2005&theme=darkhub&no-bg=true&margin-w=8&column=6" />
+</p>
+
+---
+
+## ✦ Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesleyruiz2005&theme=tokyonight&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&hide_border=true" />
+</p>
+
+---
+
+## ⌨ Dev Humor
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0D1117&borderColor=8B5CF6&textColor=A78BFA&qColor=ffffff&aColor=8B5CF6" />
+</p>
+
+<p align="center">
+  <img src="https://terminal-identity.vercel.app/api?username=wesleyruiz2005&theme=dracula" />
+</p>
