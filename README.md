@@ -14,6 +14,51 @@ My work sits at the intersection of **ML**, **intelligent automation**, and **ba
 
 ---
 
+## ♟️ Play Community Chess With Me
+
+This board is **playable by anyone**. Click a link under **TO** and it opens a pre-filled GitHub issue — just submit it. A GitHub Action validates the move, updates the board and commits it. White moves first, and you can't move twice in a row.
+
+> No game in progress yet — [**♟️ Start a new game**](https://github.com/wesleyruiz2005/wesleyruiz2005/issues/new?title=Chess%3A+Start+new+game&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) to begin!
+
+It's <!-- BEGIN TURN -->white(clear)<!-- END TURN --> turn.
+
+<!-- BEGIN CHESS BOARD -->
+|   | A | B | C | D | E | F | G | H |   |
+|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **8** | <img src="img/black/rook.png" width=50px> | <img src="img/black/knight.png" width=50px> | <img src="img/black/bishop.png" width=50px> | <img src="img/black/queen.png" width=50px> | <img src="img/black/king.png" width=50px> | <img src="img/black/bishop.png" width=50px> | <img src="img/black/knight.png" width=50px> | <img src="img/black/rook.png" width=50px> | **8** |
+| **7** | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | <img src="img/black/pawn.png" width=50px> | **7** |
+| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
+| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
+| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
+| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
+| **2** | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | <img src="img/white/pawn.png" width=50px> | **2** |
+| **1** | <img src="img/white/rook.png" width=50px> | <img src="img/white/knight.png" width=50px> | <img src="img/white/bishop.png" width=50px> | <img src="img/white/queen.png" width=50px> | <img src="img/white/king.png" width=50px> | <img src="img/white/bishop.png" width=50px> | <img src="img/white/knight.png" width=50px> | <img src="img/white/rook.png" width=50px> | **1** |
+|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
+<!-- END CHESS BOARD -->
+
+**▸ Your move** (appears once a game starts)
+
+<!-- BEGIN MOVES LIST -->
+[**♟️ Start a new game**](https://github.com/wesleyruiz2005/wesleyruiz2005/issues/new?title=Chess%3A+Start+new+game&body=Please+do+not+change+the+title.+Just+click+%22Submit+new+issue%22.+You+don%27t+need+to+do+anything+else+%3AD) to get the list of available moves.
+<!-- END MOVES LIST -->
+
+<details>
+<summary><b>▸ Recent moves & top players</b></summary>
+
+<!-- BEGIN LAST MOVES -->
+| Move | Author |
+| :--: | :----- |
+<!-- END LAST MOVES -->
+
+<!-- BEGIN TOP MOVES -->
+| Total moves |  User  |
+| :---------: | :----- |
+<!-- END TOP MOVES -->
+
+</details>
+
+---
+
 ## ◈ Currently working on
 
 - Binary classification pipelines for credit default risk — feature engineering, LightGBM, AUC-ROC optimization
