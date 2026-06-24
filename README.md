@@ -122,6 +122,14 @@ My work sits at the intersection of **ML**, **intelligent automation**, and **ba
 
 ---
 
+## ♫ Now Playing on Spotify
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31uzabsjtmgjetcp7j557vrkiixi&cover_image=true&theme=default&show_offline=true&background_color=0D1117&bar_color=8B5CF6&bar_color_cover=true" />
+</p>
+
+---
+
 ## ◳ Skills & Tools
 
 <p align="center">
@@ -139,6 +147,14 @@ My work sits at the intersection of **ML**, **intelligent automation**, and **ba
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleyruiz2005&theme=midnight_purple" width="49%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wesleyruiz2005&theme=midnight_purple&utcOffset=-6" width="49%" />
+</p>
+
+---
+
+## ⟁ LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoco.in/wesleyruiz2005?theme=dark&font=Fira%20Code&ext=heatmap&border=0" />
 </p>
 
 ---
