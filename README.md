@@ -199,7 +199,7 @@ It's <!-- BEGIN TURN -->white(clear)<!-- END TURN --> turn.
 ## ⟁ LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoco.in/wesleyruiz2005?theme=dark&font=Fira%20Code&ext=heatmap&border=0" />
+  <img src="https://leetcard.jacoblin.cool/wesleyruiz2005?theme=dark&font=Fira%20Code&ext=heatmap&border=0" />
 </p>
 
 ---
