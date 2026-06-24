@@ -98,10 +98,10 @@ My work sits at the intersection of **ML**, **intelligent automation**, and **ba
 
 ---
 
-## ⊞ Trophies
+## ⊞ Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wesleyruiz2005&theme=darkhub&no-bg=true&margin-w=8&column=6" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wesleyruiz2005&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" />
 </p>
 
 ---
@@ -118,8 +118,4 @@ My work sits at the intersection of **ML**, **intelligent automation**, and **ba
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0D1117&borderColor=8B5CF6&textColor=A78BFA&qColor=ffffff&aColor=8B5CF6" />
-</p>
-
-<p align="center">
-  <img src="https://terminal-identity.vercel.app/api?username=wesleyruiz2005&theme=dracula" />
 </p>
