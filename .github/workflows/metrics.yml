@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["master"]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # METRICS_TOKEN must be a classic Personal Access Token (scopes: repo, read:user).
+          # Create it at https://github.com/settings/tokens and add it as a repo secret.
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: wesleyruiz2005
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Managua
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8

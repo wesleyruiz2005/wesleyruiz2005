@@ -119,3 +119,50 @@ My work sits at the intersection of **ML**, **intelligent automation**, and **ba
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&bgColor=0D1117&borderColor=8B5CF6&textColor=A78BFA&qColor=ffffff&aColor=8B5CF6" />
 </p>
+
+---
+
+## ◳ Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,docker,postgres,sqlite,mongodb,dotnet,nodejs,git,githubactions,azure&perline=7" />
+</p>
+
+---
+
+## ◰ Detailed Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wesleyruiz2005&theme=midnight_purple" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wesleyruiz2005&theme=midnight_purple" width="49%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wesleyruiz2005&theme=midnight_purple" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wesleyruiz2005&theme=midnight_purple&utcOffset=-6" width="49%" />
+</p>
+
+---
+
+## ◱ 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+---
+
+## ◲ Metrics
+
+<p align="center">
+  <img src="./github-metrics.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wesleyruiz2005&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/wesleyruiz2005?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github" />
+  <img src="https://img.shields.io/github/stars/wesleyruiz2005?style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Thanks%20for%20visiting!&fontColor=A78BFA&fontSize=28" width="100%" />
